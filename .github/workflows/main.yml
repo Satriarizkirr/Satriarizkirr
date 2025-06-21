@@ -1,0 +1,34 @@
+# Nama workflow
+name: Generate Snake Animation
+
+# Kontrol kapan workflow akan berjalan
+on:
+  # Berjalan secara otomatis sesuai jadwal (misal: setiap 6 jam)
+  schedule:
+    - cron: "0 */6 * * *"
+  
+  # Memungkinkan Anda untuk menjalankan workflow ini secara manual dari tab Actions
+  workflow_dispatch:
+
+# Pekerjaan yang akan dilakukan
+jobs:
+  generate:
+    # Tipe runner yang akan digunakan
+    runs-on: ubuntu-latest
+
+    # Langkah-langkah yang akan dieksekusi
+    steps:
+      # Perintah untuk menjalankan Aksi pembuat animasi ular
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          # Username GitHub Anda (otomatis terisi)
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Nama file output yang akan dibuat
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          # Token otentikasi agar Action bisa meng-commit file ke repositori Anda
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
