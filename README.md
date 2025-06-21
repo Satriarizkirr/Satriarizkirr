@@ -26,15 +26,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satriarizkirr&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
----
-
-### 🐍 Kontribusi Saya di Dunia GitHub
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Satriarizkirr/Satriarizkirr/output/dist/snake.svg" alt="snake" />
-</p>
-
----
 
 ### 📫Let's Connect
 
