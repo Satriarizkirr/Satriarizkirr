@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I am a learner in the world of software development with a deep interest in Machine Learning, especially in the fields of Computer Vision and Natural Language Processing (NLP).</i>.
+  I am a learner in the world of software development with a deep interest in Machine Learning, especially in the fields of Computer Vision and Natural Language Processing (NLP)
 </p>
 
 ---
