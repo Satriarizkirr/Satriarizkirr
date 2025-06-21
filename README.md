@@ -28,10 +28,10 @@
 
 ---
 
-### 🐍 My Contribution
+### 🐍 Kontribusi Saya di Dunia GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Satriarizkirr/Satriarizkirr/main/dist/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Satriarizkirr/Satriarizkirr/output/dist/snake.svg" alt="snake" />
 </p>
 
 ---
