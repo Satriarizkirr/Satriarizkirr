@@ -1,11 +1,11 @@
 ### Hello, I'm Satria! 👋
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=25F7B3&center=true&vCenter=true&width=435&lines=Software+Development+Learner;Machine+Learning+Enthusiast;Exploring+Computer+Vision+%26+NLP" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=25F7B3&center=true&vCenter=true&width=435&lines=Software+Development+Learner;Deep+Learning+Enthusiast;Exploring+Computer+Vision+%26+NLP" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  I am a learner in the world of software development with a deep interest in Machine Learning, especially in the fields of Computer Vision and Natural Language Processing (NLP)
+  I am a learner in the world of software development with a deep interest in Deep Learning, especially in the fields of Computer Vision and Natural Language Processing (NLP)
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,vue,python,mysql,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,vue,python,mysql,git,vscode,tensorflow" />
   </a>
 </p>
 
