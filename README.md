@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,vue,python,mysql,git,vscode,tensorflow,Pytorch,Keras" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,vue,python,mysql,git,vscode,tensorflow,pytorch" />
   </a>
 </p>
 
