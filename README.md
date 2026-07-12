@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I am a learner in the world of software development with a deep interest in Deep Learning, especially in the fields of Computer Vision
+  I am a learner in the world of software development and have interest in Deep Learning, especially in the fields of Computer Vision
 </p>
 
 ---
